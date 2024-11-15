@@ -1,0 +1,21 @@
+table {
+    width: 1000px;
+    border-collapse: collapse;
+}
+th {
+    border: 1px solid black;
+    padding: 6px;
+    text-align: center;
+    background: rgb(243, 243, 51);
+    font-weight: bold;
+}
+td {
+    border: 1px  solid black;
+    padding: 6px;
+    text-align: center;
+}
+.home-cell {
+    background: pink;
+    vertical-align: middle;
+    font-size: 30px;
+}
